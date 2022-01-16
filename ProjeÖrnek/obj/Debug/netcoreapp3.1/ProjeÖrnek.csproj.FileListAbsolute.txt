@@ -1,0 +1,14 @@
+C:\Users\sedat\source\repos\ProjeÖrnek\ProjeÖrnek\bin\Debug\netcoreapp3.1\ProjeÖrnek.exe
+C:\Users\sedat\source\repos\ProjeÖrnek\ProjeÖrnek\bin\Debug\netcoreapp3.1\ProjeÖrnek.deps.json
+C:\Users\sedat\source\repos\ProjeÖrnek\ProjeÖrnek\bin\Debug\netcoreapp3.1\ProjeÖrnek.runtimeconfig.json
+C:\Users\sedat\source\repos\ProjeÖrnek\ProjeÖrnek\bin\Debug\netcoreapp3.1\ProjeÖrnek.runtimeconfig.dev.json
+C:\Users\sedat\source\repos\ProjeÖrnek\ProjeÖrnek\bin\Debug\netcoreapp3.1\ProjeÖrnek.dll
+C:\Users\sedat\source\repos\ProjeÖrnek\ProjeÖrnek\bin\Debug\netcoreapp3.1\ProjeÖrnek.pdb
+C:\Users\sedat\source\repos\ProjeÖrnek\ProjeÖrnek\obj\Debug\netcoreapp3.1\ProjeÖrnek.csproj.AssemblyReference.cache
+C:\Users\sedat\source\repos\ProjeÖrnek\ProjeÖrnek\obj\Debug\netcoreapp3.1\ProjeÖrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedat\source\repos\ProjeÖrnek\ProjeÖrnek\obj\Debug\netcoreapp3.1\ProjeÖrnek.AssemblyInfoInputs.cache
+C:\Users\sedat\source\repos\ProjeÖrnek\ProjeÖrnek\obj\Debug\netcoreapp3.1\ProjeÖrnek.AssemblyInfo.cs
+C:\Users\sedat\source\repos\ProjeÖrnek\ProjeÖrnek\obj\Debug\netcoreapp3.1\ProjeÖrnek.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\ProjeÖrnek\ProjeÖrnek\obj\Debug\netcoreapp3.1\ProjeÖrnek.dll
+C:\Users\sedat\source\repos\ProjeÖrnek\ProjeÖrnek\obj\Debug\netcoreapp3.1\ProjeÖrnek.pdb
+C:\Users\sedat\source\repos\ProjeÖrnek\ProjeÖrnek\obj\Debug\netcoreapp3.1\ProjeÖrnek.genruntimeconfig.cache
